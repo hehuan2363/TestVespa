@@ -1,0 +1,1 @@
+Link: https://docs.vespa.ai/en/tutorials/hybrid-search.html
